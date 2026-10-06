@@ -1,0 +1,10 @@
+{
+  "scheduler_enabled": false,
+  "dtk_base": "http://127.0.0.1:9",
+  "dtk_key": "k",
+  "db": {
+    "type": "sqlite",
+    "file": "douyin.db"
+  },
+  "sync_interval_min": 30
+}

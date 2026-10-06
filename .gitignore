@@ -1,0 +1,26 @@
+venv/
+__pycache__/
+*.pyc
+media/
+*.part
+*.out
+*.log
+app/*_2*.py
+static/index_2*.html
+README_2*.md
+
+# ---- 构建产物（本地产物，不入库） ----
+/build/
+/build_stage/
+/dist/
+*.spec.bak
+
+# ---- 本地时间戳备份 / 调试残留 ----
+gui_2*.py
+gui_v1_backup.py
+launcher_2*.py
+api_bridge_2*.py
+*_backup.py
+*_frompyc.pyc
+*.e2e_bak
+config.json.e2e_bak
