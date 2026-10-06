@@ -1,0 +1,15 @@
+{
+  "dtk_base": "http://127.0.0.1:7777",
+  "dtk_key": "dtk_00000000000000000000",
+  "db": {
+    "host": "192.168.1.2",
+    "port": 3306,
+    "user": "douyin-monitor",
+    "password": "123456789abc",
+    "database": "douyin_monitor"
+  },
+  "sync_interval_min": 30,
+  "archive_pages": 5,
+  "download_pages": 5,
+  "media_dir": "/opt/www/douyin-monitor/media"
+}

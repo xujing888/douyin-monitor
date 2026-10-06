@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+media/
+*.part
+*.out
+*.log
+app/*_2*.py
+static/index_2*.html
