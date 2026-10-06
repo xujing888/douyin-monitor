@@ -1,7 +1,7 @@
 {
   "scheduler_enabled": false,
-  "dtk_base": "http://127.0.0.1:9",
-  "dtk_key": "k",
+  "dtk_base": "http://82.157.95.59:7777",
+  "dtk_key": "dtk_cd5c00ae1ae3_HggoAsmhhCKvsS6KidtJNdfjEpD8DB6e",
   "db": {
     "type": "sqlite",
     "file": "douyin.db"
